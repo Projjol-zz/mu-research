@@ -1,1 +1,6 @@
+*.pyc
+app/*.pyc
 config.py
+db_repository/
+app.db
+
